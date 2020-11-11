@@ -1,0 +1,18 @@
+{
+  "name": "discord-1337-bot",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "eris": "^0.14.0",
+    "ytdl-core": "^4.0.2",
+    "fimp": "^0.2.1",
+    "discord.js": "^12.4.0",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
